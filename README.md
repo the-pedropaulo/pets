@@ -1,4 +1,4 @@
-# Projeto desenvolvido com base nas tecnologias que a empresa pediu e usa, como:
+# Projeto desenvolvido com base nas tecnologias:
 
 - Node
 - Express
