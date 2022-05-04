@@ -19,7 +19,7 @@ function Feed() {
         }).catch(() => {
             console.log('Deu errado')
         })
-    },[posts])
+    },[])
 
     
     function deletePet(id) {
